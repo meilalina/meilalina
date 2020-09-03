@@ -1,16 +1,16 @@
-### Hi there 👋
+![Alina Dolgikh Banner](https://raw.github.com/meilalina/meilalina/master/github.png)
 
-<!--
-**meilalina/meilalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img width="45" alt="about" src="https://raw.github.com/meilalina/meilalina/master/about.png"> More about me
+```kotlin
+val meilalina = developer {
+    about {
+        name = "Alina Dolgikh"
+        company = JetBrains
+        role = Product_Marketing_Manager
+    }
+    tech("Marketing", "Community", "Bla bla magic")
+    links {
+        twitter = "@meilalina"
+    }
+}
+```
