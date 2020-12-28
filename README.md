@@ -6,9 +6,9 @@ val meilalina = developer {
     about {
         name = "Alina Dolgikh"
         company = JetBrains
-        role = Product_Marketing_Manager
+        role = ``
     }
-    tech("Marketing", "Community", "Bla bla magic")
+    tech("Marketing", "Community", "Bla bla magic", "Kotlin")
     links {
         twitter = "@meilalina"
     }
