@@ -8,7 +8,7 @@ val meilalina = developer {
         company = JetBrains
         role = ``
     }
-    tech("Marketing", "Community", "Bla bla magic", "Kotlin")
+    tech("Marketing", "Community", "Kotlin")
     links {
         twitter = "@meilalina"
     }
